@@ -3,6 +3,7 @@
 ![Main Screen](docs/assets/dictionary-app.png)
 
 A desktop dictionary application for Windows, designed for fast Korean ↔ English lookup with ranking-based search.
+
 The database uses the [KRDict](https://krdict.korean.go.kr/) dictionary from the Korean Language Institute.
 
 Downloads are available on the release section.
@@ -146,6 +147,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 MIT License
+
 KRDict database under [CC BY-SA 2.0 KR](https://krdict.korean.go.kr/kor/kboardPolicy/copyRightTermsInfo) license
 
 ---
