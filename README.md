@@ -4,9 +4,9 @@
 
 A desktop dictionary application for Windows, designed for fast Korean ↔ English lookup with ranking-based search.
 
-The database uses the [KRDict](https://krdict.korean.go.kr/) dictionary from the Korean Language Institute.
+The database uses the [KRDict](https://krdict.korean.go.kr/) dictionary from the Korean Language Institute. English and Spanish versions are available [here](https://github.com/AFGZGZ/SQLite-Korean-Dictionaries) as well as the tools to extract other languages. 
 
-Downloads are available on the release section.
+.exe files are available on the release section.
 
 ---
 
@@ -99,8 +99,9 @@ dictionary-app/
 
 ## Database
 
-- Uses a local SQLite database (`db/dict.db`)
+- Uses a local SQLite database (`db/dict.db`) 
 - Loaded via better-sqlite3
+- [repo for the db](https://github.com/AFGZGZ/SQLite-Korean-Dictionaries)
 
 ---
 
